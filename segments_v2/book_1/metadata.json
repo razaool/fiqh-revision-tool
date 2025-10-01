@@ -1,0 +1,561 @@
+{
+  "book_number": 1,
+  "title": "PURIFICATION",
+  "start_line": 1055,
+  "end_line": 6241,
+  "line_count": 5187,
+  "chapters": [
+    {
+      "chapter_number": 1,
+      "title": "Purification",
+      "start_line": 6,
+      "end_line": 47,
+      "line_count": 42,
+      "filename": "chapter_1.txt"
+    },
+    {
+      "chapter_number": 2,
+      "title": "When Ghusl Is Sunna And Recommended",
+      "start_line": 48,
+      "end_line": 148,
+      "line_count": 101,
+      "filename": "chapter_2.txt"
+    },
+    {
+      "chapter_number": 3,
+      "title": "PURIFICATION - Chapter \u0663\u0661",
+      "start_line": 149,
+      "end_line": 152,
+      "line_count": 4,
+      "filename": "chapter_3.txt"
+    },
+    {
+      "chapter_number": 4,
+      "title": "Purification'",
+      "start_line": 153,
+      "end_line": 204,
+      "line_count": 52,
+      "filename": "chapter_4.txt"
+    },
+    {
+      "chapter_number": 5,
+      "title": "PURIFICATION - Chapter \u0663\u0662",
+      "start_line": 205,
+      "end_line": 266,
+      "line_count": 62,
+      "filename": "chapter_5.txt"
+    },
+    {
+      "chapter_number": 6,
+      "title": "PURIFICATION - Chapter \u0663\u0663",
+      "start_line": 267,
+      "end_line": 320,
+      "line_count": 54,
+      "filename": "chapter_6.txt"
+    },
+    {
+      "chapter_number": 7,
+      "title": "PURIFICATION - Chapter \u0663\u0664",
+      "start_line": 321,
+      "end_line": 382,
+      "line_count": 62,
+      "filename": "chapter_7.txt"
+    },
+    {
+      "chapter_number": 8,
+      "title": "PURIFICATION - Chapter \u0663\u0665",
+      "start_line": 383,
+      "end_line": 510,
+      "line_count": 128,
+      "filename": "chapter_8.txt"
+    },
+    {
+      "chapter_number": 9,
+      "title": "PURIFICATION - Chapter \u0663\u0667",
+      "start_line": 511,
+      "end_line": 574,
+      "line_count": 64,
+      "filename": "chapter_9.txt"
+    },
+    {
+      "chapter_number": 10,
+      "title": "PURIFICATION - Chapter \u0663\u0668",
+      "start_line": 575,
+      "end_line": 640,
+      "line_count": 66,
+      "filename": "chapter_10.txt"
+    },
+    {
+      "chapter_number": 11,
+      "title": "PURIFICATION - Chapter \u0663\u0669",
+      "start_line": 641,
+      "end_line": 815,
+      "line_count": 175,
+      "filename": "chapter_11.txt"
+    },
+    {
+      "chapter_number": 12,
+      "title": "PURIFICATION - Chapter \u0664\u0662",
+      "start_line": 816,
+      "end_line": 876,
+      "line_count": 61,
+      "filename": "chapter_12.txt"
+    },
+    {
+      "chapter_number": 13,
+      "title": "PURIFICATION - Chapter \u0664\u0663",
+      "start_line": 877,
+      "end_line": 937,
+      "line_count": 61,
+      "filename": "chapter_13.txt"
+    },
+    {
+      "chapter_number": 14,
+      "title": "PURIFICATION - Chapter \u0664\u0664",
+      "start_line": 938,
+      "end_line": 982,
+      "line_count": 45,
+      "filename": "chapter_14.txt"
+    },
+    {
+      "chapter_number": 15,
+      "title": "PURIFICATION - Chapter \u0664\u0665",
+      "start_line": 983,
+      "end_line": 986,
+      "line_count": 4,
+      "filename": "chapter_15.txt"
+    },
+    {
+      "chapter_number": 16,
+      "title": "Wudu(Ablution)The Messenger of Allah(God bless him and grant him peace)said, \"When a",
+      "start_line": 987,
+      "end_line": 1035,
+      "line_count": 49,
+      "filename": "chapter_16.txt"
+    },
+    {
+      "chapter_number": 17,
+      "title": "PURIFICATION - Chapter \u0664\u0666",
+      "start_line": 1036,
+      "end_line": 1092,
+      "line_count": 57,
+      "filename": "chapter_17.txt"
+    },
+    {
+      "chapter_number": 18,
+      "title": "PURIFICATION - Chapter \u0664\u0667",
+      "start_line": 1093,
+      "end_line": 1151,
+      "line_count": 59,
+      "filename": "chapter_18.txt"
+    },
+    {
+      "chapter_number": 19,
+      "title": "PURIFICATION - Chapter \u0664\u0668",
+      "start_line": 1152,
+      "end_line": 1270,
+      "line_count": 119,
+      "filename": "chapter_19.txt"
+    },
+    {
+      "chapter_number": 20,
+      "title": "PURIFICATION - Chapter \u0665\u0660",
+      "start_line": 1271,
+      "end_line": 1338,
+      "line_count": 68,
+      "filename": "chapter_20.txt"
+    },
+    {
+      "chapter_number": 21,
+      "title": "PURIFICATION - Chapter \u0665\u0661",
+      "start_line": 1339,
+      "end_line": 1452,
+      "line_count": 114,
+      "filename": "chapter_21.txt"
+    },
+    {
+      "chapter_number": 22,
+      "title": "PURIFICATION - Chapter \u0665\u0663",
+      "start_line": 1453,
+      "end_line": 1577,
+      "line_count": 125,
+      "filename": "chapter_22.txt"
+    },
+    {
+      "chapter_number": 23,
+      "title": "PURIFICATION - Chapter \u0665\u0665",
+      "start_line": 1578,
+      "end_line": 1639,
+      "line_count": 62,
+      "filename": "chapter_23.txt"
+    },
+    {
+      "chapter_number": 24,
+      "title": "PURIFICATION - Chapter \u0665\u0666",
+      "start_line": 1640,
+      "end_line": 1764,
+      "line_count": 125,
+      "filename": "chapter_24.txt"
+    },
+    {
+      "chapter_number": 25,
+      "title": "PURIFICATION - Chapter \u0665\u0668",
+      "start_line": 1765,
+      "end_line": 1893,
+      "line_count": 129,
+      "filename": "chapter_25.txt"
+    },
+    {
+      "chapter_number": 26,
+      "title": "PURIFICATION - Chapter \u0666\u0660",
+      "start_line": 1894,
+      "end_line": 1953,
+      "line_count": 60,
+      "filename": "chapter_26.txt"
+    },
+    {
+      "chapter_number": 27,
+      "title": "PURIFICATION - Chapter \u0666\u0661",
+      "start_line": 1954,
+      "end_line": 2010,
+      "line_count": 57,
+      "filename": "chapter_27.txt"
+    },
+    {
+      "chapter_number": 28,
+      "title": "PURIFICATION - Chapter \u0666\u0662",
+      "start_line": 2011,
+      "end_line": 2071,
+      "line_count": 61,
+      "filename": "chapter_28.txt"
+    },
+    {
+      "chapter_number": 29,
+      "title": "PURIFICATION - Chapter \u0666\u0663",
+      "start_line": 2072,
+      "end_line": 2127,
+      "line_count": 56,
+      "filename": "chapter_29.txt"
+    },
+    {
+      "chapter_number": 30,
+      "title": "PURIFICATION - Chapter \u0666\u0664",
+      "start_line": 2128,
+      "end_line": 2245,
+      "line_count": 118,
+      "filename": "chapter_30.txt"
+    },
+    {
+      "chapter_number": 31,
+      "title": "PURIFICATION - Chapter \u0666\u0666",
+      "start_line": 2246,
+      "end_line": 2299,
+      "line_count": 54,
+      "filename": "chapter_31.txt"
+    },
+    {
+      "chapter_number": 32,
+      "title": "PURIFICATION - Chapter \u0666\u0667",
+      "start_line": 2300,
+      "end_line": 2369,
+      "line_count": 70,
+      "filename": "chapter_32.txt"
+    },
+    {
+      "chapter_number": 33,
+      "title": "PURIFICATION - Chapter \u0666\u0668",
+      "start_line": 2370,
+      "end_line": 2433,
+      "line_count": 64,
+      "filename": "chapter_33.txt"
+    },
+    {
+      "chapter_number": 34,
+      "title": "PURIFICATION - Chapter \u0666\u0669",
+      "start_line": 2434,
+      "end_line": 2491,
+      "line_count": 58,
+      "filename": "chapter_34.txt"
+    },
+    {
+      "chapter_number": 35,
+      "title": "PURIFICATION - Chapter \u0667\u0660",
+      "start_line": 2492,
+      "end_line": 2659,
+      "line_count": 168,
+      "filename": "chapter_35.txt"
+    },
+    {
+      "chapter_number": 36,
+      "title": "PURIFICATION - Chapter \u0667\u0663",
+      "start_line": 2660,
+      "end_line": 2830,
+      "line_count": 171,
+      "filename": "chapter_36.txt"
+    },
+    {
+      "chapter_number": 37,
+      "title": "PURIFICATION - Chapter \u0661\u0666",
+      "start_line": 2831,
+      "end_line": 2882,
+      "line_count": 52,
+      "filename": "chapter_37.txt"
+    },
+    {
+      "chapter_number": 38,
+      "title": "PURIFICATION - Chapter \u0667\u0667",
+      "start_line": 2883,
+      "end_line": 2944,
+      "line_count": 62,
+      "filename": "chapter_38.txt"
+    },
+    {
+      "chapter_number": 39,
+      "title": "PURIFICATION - Chapter \u0667\u0668",
+      "start_line": 2945,
+      "end_line": 3005,
+      "line_count": 61,
+      "filename": "chapter_39.txt"
+    },
+    {
+      "chapter_number": 40,
+      "title": "PURIFICATION - Chapter \u0667\u0669",
+      "start_line": 3006,
+      "end_line": 3069,
+      "line_count": 64,
+      "filename": "chapter_40.txt"
+    },
+    {
+      "chapter_number": 41,
+      "title": "PURIFICATION - Chapter \u0668\u0660",
+      "start_line": 3070,
+      "end_line": 3121,
+      "line_count": 52,
+      "filename": "chapter_41.txt"
+    },
+    {
+      "chapter_number": 42,
+      "title": "PURIFICATION - Chapter \u0668\u0661",
+      "start_line": 3122,
+      "end_line": 3184,
+      "line_count": 63,
+      "filename": "chapter_42.txt"
+    },
+    {
+      "chapter_number": 43,
+      "title": "PURIFICATION - Chapter \u0668\u0662",
+      "start_line": 3185,
+      "end_line": 3249,
+      "line_count": 65,
+      "filename": "chapter_43.txt"
+    },
+    {
+      "chapter_number": 44,
+      "title": "PURIFICATION - Chapter \u0668\u0663",
+      "start_line": 3250,
+      "end_line": 3372,
+      "line_count": 123,
+      "filename": "chapter_44.txt"
+    },
+    {
+      "chapter_number": 45,
+      "title": "PURIFICATION - Chapter \u0668\u0665",
+      "start_line": 3373,
+      "end_line": 3529,
+      "line_count": 157,
+      "filename": "chapter_45.txt"
+    },
+    {
+      "chapter_number": 46,
+      "title": "PURIFICATION - Chapter \u0668\u0668",
+      "start_line": 3530,
+      "end_line": 3644,
+      "line_count": 115,
+      "filename": "chapter_46.txt"
+    },
+    {
+      "chapter_number": 47,
+      "title": "PURIFICATION - Chapter \u0669\u0660",
+      "start_line": 3645,
+      "end_line": 3702,
+      "line_count": 58,
+      "filename": "chapter_47.txt"
+    },
+    {
+      "chapter_number": 48,
+      "title": "PURIFICATION - Chapter \u0669\u0661",
+      "start_line": 3703,
+      "end_line": 3761,
+      "line_count": 59,
+      "filename": "chapter_48.txt"
+    },
+    {
+      "chapter_number": 49,
+      "title": "PURIFICATION - Chapter \u0669\u0662",
+      "start_line": 3762,
+      "end_line": 3821,
+      "line_count": 60,
+      "filename": "chapter_49.txt"
+    },
+    {
+      "chapter_number": 50,
+      "title": "PURIFICATION - Chapter \u0669\u0663",
+      "start_line": 3822,
+      "end_line": 3886,
+      "line_count": 65,
+      "filename": "chapter_50.txt"
+    },
+    {
+      "chapter_number": 51,
+      "title": "PURIFICATION - Chapter \u0669\u0664",
+      "start_line": 3887,
+      "end_line": 3912,
+      "line_count": 26,
+      "filename": "chapter_51.txt"
+    },
+    {
+      "chapter_number": 52,
+      "title": "Menstrual Periods, Postnatal and Chronic Vaginal Discharge",
+      "start_line": 3913,
+      "end_line": 4095,
+      "line_count": 183,
+      "filename": "chapter_52.txt"
+    },
+    {
+      "chapter_number": 53,
+      "title": "PURIFICATION - Chapter \u0669\u0668",
+      "start_line": 4096,
+      "end_line": 4146,
+      "line_count": 51,
+      "filename": "chapter_53.txt"
+    },
+    {
+      "chapter_number": 54,
+      "title": "PURIFICATION - Chapter \u0669\u0669",
+      "start_line": 4147,
+      "end_line": 4200,
+      "line_count": 54,
+      "filename": "chapter_54.txt"
+    },
+    {
+      "chapter_number": 55,
+      "title": "PURIFICATION - Chapter \u0661\u0660\u0660",
+      "start_line": 4201,
+      "end_line": 4381,
+      "line_count": 181,
+      "filename": "chapter_55.txt"
+    },
+    {
+      "chapter_number": 56,
+      "title": "PURIFICATION - Chapter \u0661\u0660\u0663",
+      "start_line": 4382,
+      "end_line": 4436,
+      "line_count": 55,
+      "filename": "chapter_56.txt"
+    },
+    {
+      "chapter_number": 57,
+      "title": "PURIFICATION - Chapter \u0661\u0660\u0664",
+      "start_line": 4437,
+      "end_line": 4500,
+      "line_count": 64,
+      "filename": "chapter_57.txt"
+    },
+    {
+      "chapter_number": 58,
+      "title": "PURIFICATION - Chapter \u0661\u0660\u0665",
+      "start_line": 4501,
+      "end_line": 4549,
+      "line_count": 49,
+      "filename": "chapter_58.txt"
+    },
+    {
+      "chapter_number": 59,
+      "title": "PURIFICATION - Chapter \u0661\u0660\u0666",
+      "start_line": 4550,
+      "end_line": 4605,
+      "line_count": 56,
+      "filename": "chapter_59.txt"
+    },
+    {
+      "chapter_number": 60,
+      "title": "PURIFICATION - Chapter \u0661\u0660\u0667",
+      "start_line": 4606,
+      "end_line": 4609,
+      "line_count": 4,
+      "filename": "chapter_60.txt"
+    },
+    {
+      "chapter_number": 61,
+      "title": "Najasa(Filth)And Its Purification",
+      "start_line": 4610,
+      "end_line": 4654,
+      "line_count": 45,
+      "filename": "chapter_61.txt"
+    },
+    {
+      "chapter_number": 62,
+      "title": "PURIFICATION - Chapter \u0661\u0660\u0668",
+      "start_line": 4655,
+      "end_line": 4708,
+      "line_count": 54,
+      "filename": "chapter_62.txt"
+    },
+    {
+      "chapter_number": 63,
+      "title": "PURIFICATION - Chapter \u0661\u0660\u0669",
+      "start_line": 4709,
+      "end_line": 4769,
+      "line_count": 61,
+      "filename": "chapter_63.txt"
+    },
+    {
+      "chapter_number": 64,
+      "title": "PURIFICATION - Chapter \u0661\u0661\u0660",
+      "start_line": 4770,
+      "end_line": 4932,
+      "line_count": 163,
+      "filename": "chapter_64.txt"
+    },
+    {
+      "chapter_number": 65,
+      "title": "PURIFICATION - Chapter \u0661\u0661\u0663",
+      "start_line": 4933,
+      "end_line": 4985,
+      "line_count": 53,
+      "filename": "chapter_65.txt"
+    },
+    {
+      "chapter_number": 66,
+      "title": "PURIFICATION - Chapter \u0661\u0661\u0664",
+      "start_line": 4986,
+      "end_line": 5085,
+      "line_count": 100,
+      "filename": "chapter_66.txt"
+    },
+    {
+      "chapter_number": 67,
+      "title": "PRAYER - Chapter \u0661\u0661\u0666",
+      "start_line": 5086,
+      "end_line": 5095,
+      "line_count": 10,
+      "filename": "chapter_67.txt"
+    },
+    {
+      "chapter_number": 68,
+      "title": "Prayer",
+      "start_line": 5096,
+      "end_line": 5104,
+      "line_count": 9,
+      "filename": "chapter_68.txt"
+    },
+    {
+      "chapter_number": 69,
+      "title": "Adhan(The Call To Prayer)The Ruling Of The Call To Prayer And The Call To Commence",
+      "start_line": 5105,
+      "end_line": 5187,
+      "line_count": 83,
+      "filename": "chapter_69.txt"
+    }
+  ]
+}

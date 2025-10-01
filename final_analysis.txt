@@ -1,0 +1,63 @@
+============================================================
+ISLAMIC TEXT ANALYSIS REPORT
+============================================================
+
+BASIC STATISTICS
+--------------------
+Total Characters: 938,831
+Total Words: 171,405
+Total Lines: 24,604
+Non-empty Lines: 14,956
+Average Line Length: 38.2 characters
+Average Word Length: 4.4 characters
+
+LANGUAGE DISTRIBUTION
+-------------------------
+Arabic Characters: 8,403 (0.9%)
+English Characters: 719,686 (76.7%)
+Numbers: 8,403 (0.9%)
+Punctuation: 26,154 (2.8%)
+Whitespace: 181,052 (19.3%)
+
+ISLAMIC CONTENT ANALYSIS
+------------------------------
+Islamic Phrases Found: 0
+Arabic Terms Found: 0
+Transliterated Terms Found: 6
+
+Top Transliterated Terms:
+  Allah: 503
+  Muhammad: 133
+  rahman: 4
+  hamd: 3
+  sallallahu: 2
+  alayhi: 2
+
+STRUCTURE ANALYSIS
+--------------------
+Chapter Markers: 0
+Verse/Reference Markers: 0
+Paragraphs: 4874
+Average Paragraph Length: 189.6 characters
+Empty Lines: 9648
+
+QUALITY METRICS
+-----------------
+Quality Score: 65/100
+Multiple Spaces: 4873
+Multiple Punctuation: 0
+Mixed Quotes: 3400
+Tab Characters: 0
+BOM Characters: 0
+
+DETECTED ISSUES
+-----------------
+[32mMULTIPLE_SPACES (low)
+  Description: Multiple consecutive spaces found
+  Count: 4873
+
+[33mMIXED_QUOTES (medium)
+  Description: Mixed quote types found
+  Count: 3400
+
+============================================================

@@ -1,0 +1,1425 @@
+{
+  "book_number": 2,
+  "title": "PRAYER",
+  "start_line": 6242,
+  "end_line": 24604,
+  "line_count": 18363,
+  "chapters": [
+    {
+      "chapter_number": 1,
+      "title": "PRAYER - Chapter \u0661\u0662\u0661",
+      "start_line": 293,
+      "end_line": 349,
+      "line_count": 57,
+      "filename": "chapter_1.txt"
+    },
+    {
+      "chapter_number": 2,
+      "title": "PRAYER - Chapter \u0661\u0662\u0662",
+      "start_line": 350,
+      "end_line": 407,
+      "line_count": 58,
+      "filename": "chapter_2.txt"
+    },
+    {
+      "chapter_number": 3,
+      "title": "PRAYER - Chapter \u0661\u0662\u0663",
+      "start_line": 408,
+      "end_line": 583,
+      "line_count": 176,
+      "filename": "chapter_3.txt"
+    },
+    {
+      "chapter_number": 4,
+      "title": "PRAYER - Chapter \u0661\u0662\u0666",
+      "start_line": 584,
+      "end_line": 642,
+      "line_count": 59,
+      "filename": "chapter_4.txt"
+    },
+    {
+      "chapter_number": 5,
+      "title": "PRAYER - Chapter \u0661\u0662\u0667",
+      "start_line": 643,
+      "end_line": 708,
+      "line_count": 66,
+      "filename": "chapter_5.txt"
+    },
+    {
+      "chapter_number": 6,
+      "title": "PRAYER - Chapter \u0661\u0662\u0668",
+      "start_line": 709,
+      "end_line": 898,
+      "line_count": 190,
+      "filename": "chapter_6.txt"
+    },
+    {
+      "chapter_number": 7,
+      "title": "PRAYER - Chapter \u0661\u0663\u0661",
+      "start_line": 899,
+      "end_line": 911,
+      "line_count": 13,
+      "filename": "chapter_7.txt"
+    },
+    {
+      "chapter_number": 8,
+      "title": "Adhan",
+      "start_line": 912,
+      "end_line": 948,
+      "line_count": 37,
+      "filename": "chapter_8.txt"
+    },
+    {
+      "chapter_number": 9,
+      "title": "PRAYER - Chapter \u0661\u0663\u0662",
+      "start_line": 949,
+      "end_line": 1008,
+      "line_count": 60,
+      "filename": "chapter_9.txt"
+    },
+    {
+      "chapter_number": 10,
+      "title": "PRAYER - Chapter \u0661\u0663\u0663",
+      "start_line": 1009,
+      "end_line": 1070,
+      "line_count": 62,
+      "filename": "chapter_10.txt"
+    },
+    {
+      "chapter_number": 11,
+      "title": "PRAYER - Chapter \u0661\u0663\u0664",
+      "start_line": 1071,
+      "end_line": 1121,
+      "line_count": 51,
+      "filename": "chapter_11.txt"
+    },
+    {
+      "chapter_number": 12,
+      "title": "PRAYER - Chapter \u0661\u0663\u0665",
+      "start_line": 1122,
+      "end_line": 1169,
+      "line_count": 48,
+      "filename": "chapter_12.txt"
+    },
+    {
+      "chapter_number": 13,
+      "title": "PRAYER - Chapter \u0661\u0663\u0666",
+      "start_line": 1170,
+      "end_line": 1285,
+      "line_count": 116,
+      "filename": "chapter_13.txt"
+    },
+    {
+      "chapter_number": 14,
+      "title": "PRAYER - Chapter \u0661\u0663\u0668",
+      "start_line": 1286,
+      "end_line": 1414,
+      "line_count": 129,
+      "filename": "chapter_14.txt"
+    },
+    {
+      "chapter_number": 15,
+      "title": "PRAYER - Chapter \u0661\u0664\u0660",
+      "start_line": 1415,
+      "end_line": 1473,
+      "line_count": 59,
+      "filename": "chapter_15.txt"
+    },
+    {
+      "chapter_number": 16,
+      "title": "PRAYER - Chapter \u0661\u0664\u0661",
+      "start_line": 1474,
+      "end_line": 1547,
+      "line_count": 74,
+      "filename": "chapter_16.txt"
+    },
+    {
+      "chapter_number": 17,
+      "title": "PRAYER - Chapter \u0661\u0664\u0662",
+      "start_line": 1548,
+      "end_line": 1644,
+      "line_count": 97,
+      "filename": "chapter_17.txt"
+    },
+    {
+      "chapter_number": 18,
+      "title": "PRAYER - Chapter \u0661\u0664\u0664",
+      "start_line": 1645,
+      "end_line": 1705,
+      "line_count": 61,
+      "filename": "chapter_18.txt"
+    },
+    {
+      "chapter_number": 19,
+      "title": "PRAYER - Chapter \u0661\u0664\u0665",
+      "start_line": 1706,
+      "end_line": 1764,
+      "line_count": 59,
+      "filename": "chapter_19.txt"
+    },
+    {
+      "chapter_number": 20,
+      "title": "PRAYER - Chapter \u0661\u0664\u0666",
+      "start_line": 1765,
+      "end_line": 1818,
+      "line_count": 54,
+      "filename": "chapter_20.txt"
+    },
+    {
+      "chapter_number": 21,
+      "title": "PRAYER - Chapter \u0661\u0664\u0667",
+      "start_line": 1819,
+      "end_line": 1947,
+      "line_count": 129,
+      "filename": "chapter_21.txt"
+    },
+    {
+      "chapter_number": 22,
+      "title": "PRAYER - Chapter \u0661\u0664\u0669",
+      "start_line": 1948,
+      "end_line": 2019,
+      "line_count": 72,
+      "filename": "chapter_22.txt"
+    },
+    {
+      "chapter_number": 23,
+      "title": "PRAYER - Chapter \u0661\u0665\u0660",
+      "start_line": 2020,
+      "end_line": 2074,
+      "line_count": 55,
+      "filename": "chapter_23.txt"
+    },
+    {
+      "chapter_number": 24,
+      "title": "PRAYER - Chapter \u0661\u0665\u0661",
+      "start_line": 2075,
+      "end_line": 2201,
+      "line_count": 127,
+      "filename": "chapter_24.txt"
+    },
+    {
+      "chapter_number": 25,
+      "title": "PRAYER - Chapter \u0661\u0665\u0663",
+      "start_line": 2202,
+      "end_line": 2262,
+      "line_count": 61,
+      "filename": "chapter_25.txt"
+    },
+    {
+      "chapter_number": 26,
+      "title": "PRAYER - Chapter \u0661\u0665\u0664",
+      "start_line": 2263,
+      "end_line": 2325,
+      "line_count": 63,
+      "filename": "chapter_26.txt"
+    },
+    {
+      "chapter_number": 27,
+      "title": "PRAYER - Chapter \u0661\u0665\u0665",
+      "start_line": 2326,
+      "end_line": 2387,
+      "line_count": 62,
+      "filename": "chapter_27.txt"
+    },
+    {
+      "chapter_number": 28,
+      "title": "PRAYER - Chapter \u0661\u0665\u0666",
+      "start_line": 2388,
+      "end_line": 2446,
+      "line_count": 59,
+      "filename": "chapter_28.txt"
+    },
+    {
+      "chapter_number": 29,
+      "title": "PRAYER - Chapter \u0661\u0665\u0667",
+      "start_line": 2447,
+      "end_line": 2510,
+      "line_count": 64,
+      "filename": "chapter_29.txt"
+    },
+    {
+      "chapter_number": 30,
+      "title": "PRAYER - Chapter \u0661\u0665\u0668",
+      "start_line": 2511,
+      "end_line": 2552,
+      "line_count": 42,
+      "filename": "chapter_30.txt"
+    },
+    {
+      "chapter_number": 31,
+      "title": "PRAYER - Chapter \u0661\u0665\u0668",
+      "start_line": 2553,
+      "end_line": 2594,
+      "line_count": 42,
+      "filename": "chapter_31.txt"
+    },
+    {
+      "chapter_number": 32,
+      "title": "PRAYER - Chapter \u0661\u0665\u0669",
+      "start_line": 2595,
+      "end_line": 2652,
+      "line_count": 58,
+      "filename": "chapter_32.txt"
+    },
+    {
+      "chapter_number": 33,
+      "title": "PRAYER - Chapter \u0661\u0666\u0660",
+      "start_line": 2653,
+      "end_line": 2706,
+      "line_count": 54,
+      "filename": "chapter_33.txt"
+    },
+    {
+      "chapter_number": 34,
+      "title": "PRAYER - Chapter \u0661\u0666\u0661",
+      "start_line": 2707,
+      "end_line": 2772,
+      "line_count": 66,
+      "filename": "chapter_34.txt"
+    },
+    {
+      "chapter_number": 35,
+      "title": "PRAYER - Chapter \u0661\u0666\u0662",
+      "start_line": 2773,
+      "end_line": 2828,
+      "line_count": 56,
+      "filename": "chapter_35.txt"
+    },
+    {
+      "chapter_number": 36,
+      "title": "PRAYER - Chapter \u0661\u0666\u0663",
+      "start_line": 2829,
+      "end_line": 2887,
+      "line_count": 59,
+      "filename": "chapter_36.txt"
+    },
+    {
+      "chapter_number": 37,
+      "title": "PRAYER - Chapter \u0661\u0666\u0664",
+      "start_line": 2888,
+      "end_line": 2942,
+      "line_count": 55,
+      "filename": "chapter_37.txt"
+    },
+    {
+      "chapter_number": 38,
+      "title": "PRAYER - Chapter \u0661\u0666\u0665",
+      "start_line": 2943,
+      "end_line": 2996,
+      "line_count": 54,
+      "filename": "chapter_38.txt"
+    },
+    {
+      "chapter_number": 39,
+      "title": "PRAYER - Chapter \u0661\u0666\u0666",
+      "start_line": 2997,
+      "end_line": 3119,
+      "line_count": 123,
+      "filename": "chapter_39.txt"
+    },
+    {
+      "chapter_number": 40,
+      "title": "PRAYER - Chapter \u0661\u0666\u0668",
+      "start_line": 3120,
+      "end_line": 3242,
+      "line_count": 123,
+      "filename": "chapter_40.txt"
+    },
+    {
+      "chapter_number": 41,
+      "title": "PRAYER - Chapter \u0661\u0667\u0660",
+      "start_line": 3243,
+      "end_line": 3358,
+      "line_count": 116,
+      "filename": "chapter_41.txt"
+    },
+    {
+      "chapter_number": 42,
+      "title": "PRAYER - Chapter \u0661\u0667\u0662",
+      "start_line": 3359,
+      "end_line": 3415,
+      "line_count": 57,
+      "filename": "chapter_42.txt"
+    },
+    {
+      "chapter_number": 43,
+      "title": "PRAYER - Chapter \u0661\u0667\u0663",
+      "start_line": 3416,
+      "end_line": 3474,
+      "line_count": 59,
+      "filename": "chapter_43.txt"
+    },
+    {
+      "chapter_number": 44,
+      "title": "PRAYER - Chapter \u0661\u0667\u0664",
+      "start_line": 3475,
+      "end_line": 3529,
+      "line_count": 55,
+      "filename": "chapter_44.txt"
+    },
+    {
+      "chapter_number": 45,
+      "title": "PRAYER - Chapter \u0661\u0667\u0665",
+      "start_line": 3530,
+      "end_line": 3582,
+      "line_count": 53,
+      "filename": "chapter_45.txt"
+    },
+    {
+      "chapter_number": 46,
+      "title": "PRAYER - Chapter \u0661\u0667\u0666",
+      "start_line": 3583,
+      "end_line": 3705,
+      "line_count": 123,
+      "filename": "chapter_46.txt"
+    },
+    {
+      "chapter_number": 47,
+      "title": "PRAYER - Chapter \u0661\u0667\u0668",
+      "start_line": 3706,
+      "end_line": 3819,
+      "line_count": 114,
+      "filename": "chapter_47.txt"
+    },
+    {
+      "chapter_number": 48,
+      "title": "PRAYER - Chapter \u0661\u0668\u0660",
+      "start_line": 3820,
+      "end_line": 3875,
+      "line_count": 56,
+      "filename": "chapter_48.txt"
+    },
+    {
+      "chapter_number": 49,
+      "title": "PRAYER - Chapter \u0661\u0668\u0661",
+      "start_line": 3876,
+      "end_line": 3939,
+      "line_count": 64,
+      "filename": "chapter_49.txt"
+    },
+    {
+      "chapter_number": 50,
+      "title": "PRAYER - Chapter \u0661\u0668\u0662",
+      "start_line": 3940,
+      "end_line": 4001,
+      "line_count": 62,
+      "filename": "chapter_50.txt"
+    },
+    {
+      "chapter_number": 51,
+      "title": "PRAYER - Chapter \u0661\u0668\u0663",
+      "start_line": 4002,
+      "end_line": 4062,
+      "line_count": 61,
+      "filename": "chapter_51.txt"
+    },
+    {
+      "chapter_number": 52,
+      "title": "PRAYER - Chapter \u0661\u0668\u0664",
+      "start_line": 4063,
+      "end_line": 4126,
+      "line_count": 64,
+      "filename": "chapter_52.txt"
+    },
+    {
+      "chapter_number": 53,
+      "title": "PRAYER - Chapter \u0661\u0668\u0665",
+      "start_line": 4127,
+      "end_line": 4187,
+      "line_count": 61,
+      "filename": "chapter_53.txt"
+    },
+    {
+      "chapter_number": 54,
+      "title": "PRAYER - Chapter \u0661\u0668\u0666",
+      "start_line": 4188,
+      "end_line": 4243,
+      "line_count": 56,
+      "filename": "chapter_54.txt"
+    },
+    {
+      "chapter_number": 55,
+      "title": "PRAYER - Chapter \u0661\u0668\u0667",
+      "start_line": 4244,
+      "end_line": 4304,
+      "line_count": 61,
+      "filename": "chapter_55.txt"
+    },
+    {
+      "chapter_number": 56,
+      "title": "PRAYER - Chapter \u0661\u0668\u0668",
+      "start_line": 4305,
+      "end_line": 4364,
+      "line_count": 60,
+      "filename": "chapter_56.txt"
+    },
+    {
+      "chapter_number": 57,
+      "title": "PRAYER - Chapter \u0661\u0668\u0669",
+      "start_line": 4365,
+      "end_line": 4422,
+      "line_count": 58,
+      "filename": "chapter_57.txt"
+    },
+    {
+      "chapter_number": 58,
+      "title": "PRAYER - Chapter \u0661\u0669\u0660",
+      "start_line": 4423,
+      "end_line": 4493,
+      "line_count": 71,
+      "filename": "chapter_58.txt"
+    },
+    {
+      "chapter_number": 59,
+      "title": "PRAYER - Chapter \u0661\u0669\u0661",
+      "start_line": 4494,
+      "end_line": 4552,
+      "line_count": 59,
+      "filename": "chapter_59.txt"
+    },
+    {
+      "chapter_number": 60,
+      "title": "PRAYER - Chapter \u0661\u0669\u0662",
+      "start_line": 4553,
+      "end_line": 4610,
+      "line_count": 58,
+      "filename": "chapter_60.txt"
+    },
+    {
+      "chapter_number": 61,
+      "title": "PRAYER - Chapter \u0661\u0669\u0663",
+      "start_line": 4611,
+      "end_line": 4673,
+      "line_count": 63,
+      "filename": "chapter_61.txt"
+    },
+    {
+      "chapter_number": 62,
+      "title": "PRAYER - Chapter \u0661\u0669\u0664",
+      "start_line": 4674,
+      "end_line": 4744,
+      "line_count": 71,
+      "filename": "chapter_62.txt"
+    },
+    {
+      "chapter_number": 63,
+      "title": "PRAYER - Chapter \u0661\u0669\u0665",
+      "start_line": 4745,
+      "end_line": 4807,
+      "line_count": 63,
+      "filename": "chapter_63.txt"
+    },
+    {
+      "chapter_number": 64,
+      "title": "PRAYER - Chapter \u0661\u0669\u0666",
+      "start_line": 4808,
+      "end_line": 4913,
+      "line_count": 106,
+      "filename": "chapter_64.txt"
+    },
+    {
+      "chapter_number": 65,
+      "title": "PRAYER - Chapter \u0661\u0669\u0668",
+      "start_line": 4914,
+      "end_line": 5054,
+      "line_count": 141,
+      "filename": "chapter_65.txt"
+    },
+    {
+      "chapter_number": 66,
+      "title": "PRAYER - Chapter \u0662\u0660\u0660",
+      "start_line": 5055,
+      "end_line": 5100,
+      "line_count": 46,
+      "filename": "chapter_66.txt"
+    },
+    {
+      "chapter_number": 67,
+      "title": "PRAYER - Chapter \u0662\u0660\u0661",
+      "start_line": 5101,
+      "end_line": 5106,
+      "line_count": 6,
+      "filename": "chapter_67.txt"
+    },
+    {
+      "chapter_number": 68,
+      "title": "Witr",
+      "start_line": 5107,
+      "end_line": 5223,
+      "line_count": 117,
+      "filename": "chapter_68.txt"
+    },
+    {
+      "chapter_number": 69,
+      "title": "PRAYER - Chapter \u0662\u0660\u0663",
+      "start_line": 5224,
+      "end_line": 5274,
+      "line_count": 51,
+      "filename": "chapter_69.txt"
+    },
+    {
+      "chapter_number": 70,
+      "title": "PRAYER - Chapter \u0662\u0660\u0664",
+      "start_line": 5275,
+      "end_line": 5349,
+      "line_count": 75,
+      "filename": "chapter_70.txt"
+    },
+    {
+      "chapter_number": 71,
+      "title": "PRAYER - Chapter \u0662\u0660\u0665",
+      "start_line": 5350,
+      "end_line": 5405,
+      "line_count": 56,
+      "filename": "chapter_71.txt"
+    },
+    {
+      "chapter_number": 72,
+      "title": "PRAYER - Chapter \u0662\u0660\u0666",
+      "start_line": 5406,
+      "end_line": 5544,
+      "line_count": 139,
+      "filename": "chapter_72.txt"
+    },
+    {
+      "chapter_number": 73,
+      "title": "PRAYER - Chapter \u0662\u0660\u0668",
+      "start_line": 5545,
+      "end_line": 5674,
+      "line_count": 130,
+      "filename": "chapter_73.txt"
+    },
+    {
+      "chapter_number": 74,
+      "title": "PRAYER - Chapter \u0662\u0661\u0660",
+      "start_line": 5675,
+      "end_line": 5862,
+      "line_count": 188,
+      "filename": "chapter_74.txt"
+    },
+    {
+      "chapter_number": 75,
+      "title": "PRAYER - Chapter \u0662\u0661\u0663",
+      "start_line": 5863,
+      "end_line": 5924,
+      "line_count": 62,
+      "filename": "chapter_75.txt"
+    },
+    {
+      "chapter_number": 76,
+      "title": "PRAYER - Chapter \u0662\u0661\u0664",
+      "start_line": 5925,
+      "end_line": 5999,
+      "line_count": 75,
+      "filename": "chapter_76.txt"
+    },
+    {
+      "chapter_number": 77,
+      "title": "PRAYER - Chapter \u0662\u0661\u0665",
+      "start_line": 6000,
+      "end_line": 6062,
+      "line_count": 63,
+      "filename": "chapter_77.txt"
+    },
+    {
+      "chapter_number": 78,
+      "title": "PRAYER - Chapter \u0662\u0661\u0666",
+      "start_line": 6063,
+      "end_line": 6129,
+      "line_count": 67,
+      "filename": "chapter_78.txt"
+    },
+    {
+      "chapter_number": 79,
+      "title": "PRAYER - Chapter \u0662\u0661\u0667",
+      "start_line": 6130,
+      "end_line": 6242,
+      "line_count": 113,
+      "filename": "chapter_79.txt"
+    },
+    {
+      "chapter_number": 80,
+      "title": "PRAYER - Chapter \u0662\u0661\u0669",
+      "start_line": 6243,
+      "end_line": 6302,
+      "line_count": 60,
+      "filename": "chapter_80.txt"
+    },
+    {
+      "chapter_number": 81,
+      "title": "PRAYER - Chapter \u0662\u0662\u0660",
+      "start_line": 6303,
+      "end_line": 6367,
+      "line_count": 65,
+      "filename": "chapter_81.txt"
+    },
+    {
+      "chapter_number": 82,
+      "title": "PRAYER - Chapter \u0662\u0662\u0661",
+      "start_line": 6368,
+      "end_line": 6431,
+      "line_count": 64,
+      "filename": "chapter_82.txt"
+    },
+    {
+      "chapter_number": 83,
+      "title": "PRAYER - Chapter \u0662\u0662\u0662",
+      "start_line": 6432,
+      "end_line": 6485,
+      "line_count": 54,
+      "filename": "chapter_83.txt"
+    },
+    {
+      "chapter_number": 84,
+      "title": "PRAYER - Chapter \u0662\u0662\u0663",
+      "start_line": 6486,
+      "end_line": 6552,
+      "line_count": 67,
+      "filename": "chapter_84.txt"
+    },
+    {
+      "chapter_number": 85,
+      "title": "PRAYER - Chapter \u0662\u0662\u0664",
+      "start_line": 6553,
+      "end_line": 6675,
+      "line_count": 123,
+      "filename": "chapter_85.txt"
+    },
+    {
+      "chapter_number": 86,
+      "title": "PRAYER - Chapter \u0662\u0662\u0666",
+      "start_line": 6676,
+      "end_line": 6744,
+      "line_count": 69,
+      "filename": "chapter_86.txt"
+    },
+    {
+      "chapter_number": 87,
+      "title": "PRAYER - Chapter \u0662\u0662\u0667",
+      "start_line": 6745,
+      "end_line": 6805,
+      "line_count": 61,
+      "filename": "chapter_87.txt"
+    },
+    {
+      "chapter_number": 88,
+      "title": "PRAYER - Chapter \u0662\u0662\u0668",
+      "start_line": 6806,
+      "end_line": 6860,
+      "line_count": 55,
+      "filename": "chapter_88.txt"
+    },
+    {
+      "chapter_number": 89,
+      "title": "PRAYER - Chapter \u0662\u0662\u0669",
+      "start_line": 6861,
+      "end_line": 6923,
+      "line_count": 63,
+      "filename": "chapter_89.txt"
+    },
+    {
+      "chapter_number": 90,
+      "title": "PRAYER - Chapter \u0662\u0663\u0660",
+      "start_line": 6924,
+      "end_line": 6979,
+      "line_count": 56,
+      "filename": "chapter_90.txt"
+    },
+    {
+      "chapter_number": 91,
+      "title": "PRAYER - Chapter \u0662\u0663\u0661",
+      "start_line": 6980,
+      "end_line": 7079,
+      "line_count": 100,
+      "filename": "chapter_91.txt"
+    },
+    {
+      "chapter_number": 92,
+      "title": "PRAYER - Chapter \u0662\u0663\u0663",
+      "start_line": 7080,
+      "end_line": 7133,
+      "line_count": 54,
+      "filename": "chapter_92.txt"
+    },
+    {
+      "chapter_number": 93,
+      "title": "PRAYER - Chapter \u0662\u0663\u0664",
+      "start_line": 7134,
+      "end_line": 7187,
+      "line_count": 54,
+      "filename": "chapter_93.txt"
+    },
+    {
+      "chapter_number": 94,
+      "title": "PRAYER - Chapter \u0662\u0663\u0665",
+      "start_line": 7188,
+      "end_line": 7299,
+      "line_count": 112,
+      "filename": "chapter_94.txt"
+    },
+    {
+      "chapter_number": 95,
+      "title": "PRAYER - Chapter \u0662\u0663\u0667",
+      "start_line": 7300,
+      "end_line": 7411,
+      "line_count": 112,
+      "filename": "chapter_95.txt"
+    },
+    {
+      "chapter_number": 96,
+      "title": "PRAYER - Chapter \u0662\u0663\u0669",
+      "start_line": 7412,
+      "end_line": 7536,
+      "line_count": 125,
+      "filename": "chapter_96.txt"
+    },
+    {
+      "chapter_number": 97,
+      "title": "PRAYER - Chapter \u0662\u0664\u0661",
+      "start_line": 7537,
+      "end_line": 7649,
+      "line_count": 113,
+      "filename": "chapter_97.txt"
+    },
+    {
+      "chapter_number": 98,
+      "title": "PRAYER - Chapter \u0662\u0664\u0663",
+      "start_line": 7650,
+      "end_line": 7702,
+      "line_count": 53,
+      "filename": "chapter_98.txt"
+    },
+    {
+      "chapter_number": 99,
+      "title": "PRAYER - Chapter \u0662\u0664\u0664",
+      "start_line": 7703,
+      "end_line": 7755,
+      "line_count": 53,
+      "filename": "chapter_99.txt"
+    },
+    {
+      "chapter_number": 100,
+      "title": "PRAYER - Chapter \u0662\u0664\u0665",
+      "start_line": 7756,
+      "end_line": 7821,
+      "line_count": 66,
+      "filename": "chapter_100.txt"
+    },
+    {
+      "chapter_number": 101,
+      "title": "PRAYER - Chapter \u0662\u0664\u0666",
+      "start_line": 7822,
+      "end_line": 7884,
+      "line_count": 63,
+      "filename": "chapter_101.txt"
+    },
+    {
+      "chapter_number": 102,
+      "title": "PRAYER - Chapter \u0669\u0664\u0667",
+      "start_line": 7885,
+      "end_line": 7945,
+      "line_count": 61,
+      "filename": "chapter_102.txt"
+    },
+    {
+      "chapter_number": 103,
+      "title": "PRAYER - Chapter \u0662\u0664\u0668",
+      "start_line": 7946,
+      "end_line": 8003,
+      "line_count": 58,
+      "filename": "chapter_103.txt"
+    },
+    {
+      "chapter_number": 104,
+      "title": "PRAYER - Chapter \u0662\u0664\u0669",
+      "start_line": 8004,
+      "end_line": 8041,
+      "line_count": 38,
+      "filename": "chapter_104.txt"
+    },
+    {
+      "chapter_number": 105,
+      "title": "PRAYER - Chapter \u0662\u0665\u0660",
+      "start_line": 8042,
+      "end_line": 8103,
+      "line_count": 62,
+      "filename": "chapter_105.txt"
+    },
+    {
+      "chapter_number": 106,
+      "title": "PRAYER - Chapter \u0662\u0665\u0661",
+      "start_line": 8104,
+      "end_line": 8219,
+      "line_count": 116,
+      "filename": "chapter_106.txt"
+    },
+    {
+      "chapter_number": 107,
+      "title": "PRAYER - Chapter \u0662\u0665\u0663",
+      "start_line": 8220,
+      "end_line": 8286,
+      "line_count": 67,
+      "filename": "chapter_107.txt"
+    },
+    {
+      "chapter_number": 108,
+      "title": "PRAYER - Chapter \u0662\u0665\u0664",
+      "start_line": 8287,
+      "end_line": 8345,
+      "line_count": 59,
+      "filename": "chapter_108.txt"
+    },
+    {
+      "chapter_number": 109,
+      "title": "PRAYER - Chapter \u0662\u0665\u0665",
+      "start_line": 8346,
+      "end_line": 8409,
+      "line_count": 64,
+      "filename": "chapter_109.txt"
+    },
+    {
+      "chapter_number": 110,
+      "title": "PRAYER - Chapter \u0662\u0665\u0666",
+      "start_line": 8410,
+      "end_line": 8466,
+      "line_count": 57,
+      "filename": "chapter_110.txt"
+    },
+    {
+      "chapter_number": 111,
+      "title": "PRAYER - Chapter \u0662\u0665\u0667",
+      "start_line": 8467,
+      "end_line": 8508,
+      "line_count": 42,
+      "filename": "chapter_111.txt"
+    },
+    {
+      "chapter_number": 112,
+      "title": "PRAYER - Chapter \u0662\u0665\u0668",
+      "start_line": 8509,
+      "end_line": 8810,
+      "line_count": 302,
+      "filename": "chapter_112.txt"
+    },
+    {
+      "chapter_number": 113,
+      "title": "PRAYER - Chapter \u0662\u0666\u0663",
+      "start_line": 8811,
+      "end_line": 8876,
+      "line_count": 66,
+      "filename": "chapter_113.txt"
+    },
+    {
+      "chapter_number": 114,
+      "title": "PRAYER - Chapter \u0662\u0666\u0664",
+      "start_line": 8877,
+      "end_line": 8930,
+      "line_count": 54,
+      "filename": "chapter_114.txt"
+    },
+    {
+      "chapter_number": 115,
+      "title": "PRAYER - Chapter \u0662\u0666\u0665",
+      "start_line": 8931,
+      "end_line": 8997,
+      "line_count": 67,
+      "filename": "chapter_115.txt"
+    },
+    {
+      "chapter_number": 116,
+      "title": "PRAYER - Chapter \u0662\u0666\u0666",
+      "start_line": 8998,
+      "end_line": 9140,
+      "line_count": 143,
+      "filename": "chapter_116.txt"
+    },
+    {
+      "chapter_number": 117,
+      "title": "PRAYER - Chapter \u0662\u0666\u0669",
+      "start_line": 9141,
+      "end_line": 9198,
+      "line_count": 58,
+      "filename": "chapter_117.txt"
+    },
+    {
+      "chapter_number": 118,
+      "title": "PRAYER - Chapter \u0662\u0667\u0660",
+      "start_line": 9199,
+      "end_line": 9262,
+      "line_count": 64,
+      "filename": "chapter_118.txt"
+    },
+    {
+      "chapter_number": 119,
+      "title": "PRAYER - Chapter \u0662\u0667\u0661",
+      "start_line": 9263,
+      "end_line": 9320,
+      "line_count": 58,
+      "filename": "chapter_119.txt"
+    },
+    {
+      "chapter_number": 120,
+      "title": "PRAYER - Chapter \u0662\u0667\u0662",
+      "start_line": 9321,
+      "end_line": 9426,
+      "line_count": 106,
+      "filename": "chapter_120.txt"
+    },
+    {
+      "chapter_number": 121,
+      "title": "PRAYER - Chapter \u0662\u0667\u0664",
+      "start_line": 9427,
+      "end_line": 9473,
+      "line_count": 47,
+      "filename": "chapter_121.txt"
+    },
+    {
+      "chapter_number": 122,
+      "title": "PRAYER - Chapter \u0662\u0667\u0665",
+      "start_line": 9474,
+      "end_line": 9563,
+      "line_count": 90,
+      "filename": "chapter_122.txt"
+    },
+    {
+      "chapter_number": 123,
+      "title": "PRAYER - Chapter \u0662\u0667\u0667",
+      "start_line": 9564,
+      "end_line": 9717,
+      "line_count": 154,
+      "filename": "chapter_123.txt"
+    },
+    {
+      "chapter_number": 124,
+      "title": "PRAYER - Chapter \u0662\u0668\u0660",
+      "start_line": 9718,
+      "end_line": 9816,
+      "line_count": 99,
+      "filename": "chapter_124.txt"
+    },
+    {
+      "chapter_number": 125,
+      "title": "PRAYER - Chapter \u0662\u0668\u0662",
+      "start_line": 9817,
+      "end_line": 9835,
+      "line_count": 19,
+      "filename": "chapter_125.txt"
+    },
+    {
+      "chapter_number": 126,
+      "title": "FUNERALS - Chapter \u0662\u0668\u0664",
+      "start_line": 9836,
+      "end_line": 10258,
+      "line_count": 423,
+      "filename": "chapter_126.txt"
+    },
+    {
+      "chapter_number": 127,
+      "title": "FUNERALS - Chapter \u0662\u0669\u0661",
+      "start_line": 10259,
+      "end_line": 10392,
+      "line_count": 134,
+      "filename": "chapter_127.txt"
+    },
+    {
+      "chapter_number": 128,
+      "title": "FUNERALS - Chapter \u0662\u0669\u0663",
+      "start_line": 10393,
+      "end_line": 10453,
+      "line_count": 61,
+      "filename": "chapter_128.txt"
+    },
+    {
+      "chapter_number": 129,
+      "title": "FUNERALS - Chapter \u0662\u0669\u0664",
+      "start_line": 10454,
+      "end_line": 10571,
+      "line_count": 118,
+      "filename": "chapter_129.txt"
+    },
+    {
+      "chapter_number": 130,
+      "title": "FUNERALS - Chapter \u0661\u0669\u0666",
+      "start_line": 10572,
+      "end_line": 10677,
+      "line_count": 106,
+      "filename": "chapter_130.txt"
+    },
+    {
+      "chapter_number": 131,
+      "title": "FUNERALS - Chapter \u0662\u0669\u0668",
+      "start_line": 10678,
+      "end_line": 11191,
+      "line_count": 514,
+      "filename": "chapter_131.txt"
+    },
+    {
+      "chapter_number": 132,
+      "title": "FUNERALS - Chapter \u0663\u0660\u0667",
+      "start_line": 11192,
+      "end_line": 11380,
+      "line_count": 189,
+      "filename": "chapter_132.txt"
+    },
+    {
+      "chapter_number": 133,
+      "title": "FUNERALS - Chapter \u0663\u0661\u0660",
+      "start_line": 11381,
+      "end_line": 11614,
+      "line_count": 234,
+      "filename": "chapter_133.txt"
+    },
+    {
+      "chapter_number": 134,
+      "title": "FUNERALS - Chapter \u0663\u0661\u0664",
+      "start_line": 11615,
+      "end_line": 11943,
+      "line_count": 329,
+      "filename": "chapter_134.txt"
+    },
+    {
+      "chapter_number": 135,
+      "title": "Fasting'",
+      "start_line": 11944,
+      "end_line": 12163,
+      "line_count": 220,
+      "filename": "chapter_135.txt"
+    },
+    {
+      "chapter_number": 136,
+      "title": "FASTING - Chapter \u0663\u0662\u0665",
+      "start_line": 12164,
+      "end_line": 12228,
+      "line_count": 65,
+      "filename": "chapter_136.txt"
+    },
+    {
+      "chapter_number": 137,
+      "title": "FASTING - Chapter \u0663\u0662\u0666",
+      "start_line": 12229,
+      "end_line": 12330,
+      "line_count": 102,
+      "filename": "chapter_137.txt"
+    },
+    {
+      "chapter_number": 138,
+      "title": "FASTING - Chapter \u0663\u0662\u0668",
+      "start_line": 12331,
+      "end_line": 12601,
+      "line_count": 271,
+      "filename": "chapter_138.txt"
+    },
+    {
+      "chapter_number": 139,
+      "title": "FASTING - Chapter \u0663\u0663\u0662",
+      "start_line": 12602,
+      "end_line": 12778,
+      "line_count": 177,
+      "filename": "chapter_139.txt"
+    },
+    {
+      "chapter_number": 140,
+      "title": "FASTING - Chapter \u0663\u0663\u0665",
+      "start_line": 12779,
+      "end_line": 12901,
+      "line_count": 123,
+      "filename": "chapter_140.txt"
+    },
+    {
+      "chapter_number": 141,
+      "title": "FASTING - Chapter \u0663\u0663\u0667",
+      "start_line": 12902,
+      "end_line": 12962,
+      "line_count": 61,
+      "filename": "chapter_141.txt"
+    },
+    {
+      "chapter_number": 142,
+      "title": "FASTING - Chapter \u0663\u0663\u0668",
+      "start_line": 12963,
+      "end_line": 13033,
+      "line_count": 71,
+      "filename": "chapter_142.txt"
+    },
+    {
+      "chapter_number": 143,
+      "title": "FASTING - Chapter \u0663\u0663\u0669",
+      "start_line": 13034,
+      "end_line": 13099,
+      "line_count": 66,
+      "filename": "chapter_143.txt"
+    },
+    {
+      "chapter_number": 144,
+      "title": "FASTING - Chapter \u0663\u0664\u0660",
+      "start_line": 13100,
+      "end_line": 13231,
+      "line_count": 132,
+      "filename": "chapter_144.txt"
+    },
+    {
+      "chapter_number": 145,
+      "title": "FASTING - Chapter \u0663\u0664\u0662",
+      "start_line": 13232,
+      "end_line": 13297,
+      "line_count": 66,
+      "filename": "chapter_145.txt"
+    },
+    {
+      "chapter_number": 146,
+      "title": "FASTING - Chapter \u0663\u0664\u0663",
+      "start_line": 13298,
+      "end_line": 13355,
+      "line_count": 58,
+      "filename": "chapter_146.txt"
+    },
+    {
+      "chapter_number": 147,
+      "title": "FASTING - Chapter \u0663\u0664\u0664",
+      "start_line": 13356,
+      "end_line": 13463,
+      "line_count": 108,
+      "filename": "chapter_147.txt"
+    },
+    {
+      "chapter_number": 148,
+      "title": "FASTING - Chapter \u0663\u0664\u0666",
+      "start_line": 13464,
+      "end_line": 13591,
+      "line_count": 128,
+      "filename": "chapter_148.txt"
+    },
+    {
+      "chapter_number": 149,
+      "title": "FASTING - Chapter \u0663\u0664\u0668",
+      "start_line": 13592,
+      "end_line": 13657,
+      "line_count": 66,
+      "filename": "chapter_149.txt"
+    },
+    {
+      "chapter_number": 150,
+      "title": "FASTING - Chapter \u0663\u0664\u0669",
+      "start_line": 13658,
+      "end_line": 14008,
+      "line_count": 351,
+      "filename": "chapter_150.txt"
+    },
+    {
+      "chapter_number": 151,
+      "title": "FASTING - Chapter \u0663\u0665\u0665",
+      "start_line": 14009,
+      "end_line": 14069,
+      "line_count": 61,
+      "filename": "chapter_151.txt"
+    },
+    {
+      "chapter_number": 152,
+      "title": "FASTING - Chapter \u0663\u0665\u0666",
+      "start_line": 14070,
+      "end_line": 14124,
+      "line_count": 55,
+      "filename": "chapter_152.txt"
+    },
+    {
+      "chapter_number": 153,
+      "title": "FASTING - Chapter \u0663\u0665\u0667",
+      "start_line": 14125,
+      "end_line": 14176,
+      "line_count": 52,
+      "filename": "chapter_153.txt"
+    },
+    {
+      "chapter_number": 154,
+      "title": "FASTING - Chapter \u0663\u0665\u0668",
+      "start_line": 14177,
+      "end_line": 14229,
+      "line_count": 53,
+      "filename": "chapter_154.txt"
+    },
+    {
+      "chapter_number": 155,
+      "title": "FASTING - Chapter \u0663\u0665\u0669",
+      "start_line": 14230,
+      "end_line": 14513,
+      "line_count": 284,
+      "filename": "chapter_155.txt"
+    },
+    {
+      "chapter_number": 156,
+      "title": "FASTING - Chapter \u0663\u0666\u0664",
+      "start_line": 14514,
+      "end_line": 14719,
+      "line_count": 206,
+      "filename": "chapter_156.txt"
+    },
+    {
+      "chapter_number": 157,
+      "title": "FASTING - Chapter \u0663\u0666\u0668",
+      "start_line": 14720,
+      "end_line": 14771,
+      "line_count": 52,
+      "filename": "chapter_157.txt"
+    },
+    {
+      "chapter_number": 158,
+      "title": "FASTING - Chapter \u0663\u0666\u0669",
+      "start_line": 14772,
+      "end_line": 14823,
+      "line_count": 52,
+      "filename": "chapter_158.txt"
+    },
+    {
+      "chapter_number": 159,
+      "title": "FASTING - Chapter \u0663\u0667\u0660",
+      "start_line": 14824,
+      "end_line": 14881,
+      "line_count": 58,
+      "filename": "chapter_159.txt"
+    },
+    {
+      "chapter_number": 160,
+      "title": "FASTING - Chapter \u0663\u0667\u0661",
+      "start_line": 14882,
+      "end_line": 14941,
+      "line_count": 60,
+      "filename": "chapter_160.txt"
+    },
+    {
+      "chapter_number": 161,
+      "title": "ZAKAT - Chapter \u0663\u0667\u0666",
+      "start_line": 14942,
+      "end_line": 14948,
+      "line_count": 7,
+      "filename": "chapter_161.txt"
+    },
+    {
+      "chapter_number": 162,
+      "title": "Zakat \u0663\u0667\u0667",
+      "start_line": 14949,
+      "end_line": 14978,
+      "line_count": 30,
+      "filename": "chapter_162.txt"
+    },
+    {
+      "chapter_number": 163,
+      "title": "ZAKAT - Chapter \u0663\u0667\u0667",
+      "start_line": 14979,
+      "end_line": 14982,
+      "line_count": 4,
+      "filename": "chapter_163.txt"
+    },
+    {
+      "chapter_number": 164,
+      "title": "Zakat",
+      "start_line": 14983,
+      "end_line": 15083,
+      "line_count": 101,
+      "filename": "chapter_164.txt"
+    },
+    {
+      "chapter_number": 165,
+      "title": "ZAKAT - Chapter \u0663\u0667\u0669",
+      "start_line": 15084,
+      "end_line": 15238,
+      "line_count": 155,
+      "filename": "chapter_165.txt"
+    },
+    {
+      "chapter_number": 166,
+      "title": "ZAKAT - Chapter \u0663\u0668\u0662",
+      "start_line": 15239,
+      "end_line": 15355,
+      "line_count": 117,
+      "filename": "chapter_166.txt"
+    },
+    {
+      "chapter_number": 167,
+      "title": "ZAKAT - Chapter \u0663\u0668\u0664",
+      "start_line": 15356,
+      "end_line": 15470,
+      "line_count": 115,
+      "filename": "chapter_167.txt"
+    },
+    {
+      "chapter_number": 168,
+      "title": "ZAKAT - Chapter \u0663\u0668\u0666",
+      "start_line": 15471,
+      "end_line": 15563,
+      "line_count": 93,
+      "filename": "chapter_168.txt"
+    },
+    {
+      "chapter_number": 169,
+      "title": "ZAKAT - Chapter \u0663\u0668\u0668",
+      "start_line": 15564,
+      "end_line": 15615,
+      "line_count": 52,
+      "filename": "chapter_169.txt"
+    },
+    {
+      "chapter_number": 170,
+      "title": "ZAKAT - Chapter \u0663\u0668\u0669",
+      "start_line": 15616,
+      "end_line": 15666,
+      "line_count": 51,
+      "filename": "chapter_170.txt"
+    },
+    {
+      "chapter_number": 171,
+      "title": "ZAKAT - Chapter \u0663\u0669\u0660",
+      "start_line": 15667,
+      "end_line": 15778,
+      "line_count": 112,
+      "filename": "chapter_171.txt"
+    },
+    {
+      "chapter_number": 172,
+      "title": "ZAKAT - Chapter \u0663\u0669\u0662",
+      "start_line": 15779,
+      "end_line": 15825,
+      "line_count": 47,
+      "filename": "chapter_172.txt"
+    },
+    {
+      "chapter_number": 173,
+      "title": "ZAKAT - Chapter \u0663\u0669\u0663",
+      "start_line": 15826,
+      "end_line": 15869,
+      "line_count": 44,
+      "filename": "chapter_173.txt"
+    },
+    {
+      "chapter_number": 174,
+      "title": "ZAKAT - Chapter \u0663\u0669\u0664",
+      "start_line": 15870,
+      "end_line": 15920,
+      "line_count": 51,
+      "filename": "chapter_174.txt"
+    },
+    {
+      "chapter_number": 175,
+      "title": "ZAKAT - Chapter \u0663\u0669\u0665",
+      "start_line": 15921,
+      "end_line": 16040,
+      "line_count": 120,
+      "filename": "chapter_175.txt"
+    },
+    {
+      "chapter_number": 176,
+      "title": "Hajj And Umrah \u0663\u0669\u0667",
+      "start_line": 16041,
+      "end_line": 16133,
+      "line_count": 93,
+      "filename": "chapter_176.txt"
+    },
+    {
+      "chapter_number": 177,
+      "title": "Hajj And Umrah",
+      "start_line": 16134,
+      "end_line": 18363,
+      "line_count": 2230,
+      "filename": "chapter_177.txt"
+    }
+  ]
+}

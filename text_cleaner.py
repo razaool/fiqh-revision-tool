@@ -58,7 +58,7 @@ class TextCleaner:
             'tabs_to_spaces': r'\t+',
             'line_breaks': r'\r\n|\r|\n',
             'extra_punctuation': r'[.]{2,}|[!]{2,}|[?]{2,}',
-            'mixed_quotes': r'[""''„"‚']',
+            'mixed_quotes': r'[""''„"‚\']',
             'bracket_spacing': r'\s*([\(\)\[\]\{\}])\s*',
         }
 
@@ -87,16 +87,16 @@ class TextCleaner:
 
     def clean_whitespace(self, text: str) -> str:
         """Clean up whitespace issues."""
-        # Replace multiple spaces with single space
-        text = re.sub(self.issue_patterns['multiple_spaces'], ' ', text)
+        # Replace multiple spaces with single space (but preserve line structure)
+        text = re.sub(r'[ \t]+', ' ', text)
         
         # Replace tabs with spaces
         text = re.sub(self.issue_patterns['tabs_to_spaces'], ' ', text)
         
-        # Normalize line breaks
+        # Normalize line breaks but preserve them
         text = re.sub(self.issue_patterns['line_breaks'], '\n', text)
         
-        # Remove leading/trailing whitespace from lines
+        # Remove leading/trailing whitespace from lines but keep empty lines
         lines = text.split('\n')
         lines = [line.strip() for line in lines]
         
@@ -236,8 +236,9 @@ class TextCleaner:
         for i, line in enumerate(lines, 1):
             click.echo(f"{i:2d}: {line}")
         
-        if len(lines) < len(text.split('\n')):
-            click.echo(f"... and {len(text.split('\n')) - len(lines)} more lines")
+        text_lines = text.split('\n')
+        if len(lines) < len(text_lines):
+            click.echo(f"... and {len(text_lines) - len(lines)} more lines")
         
         # Ask for confirmation
         if click.confirm(f"{Fore.GREEN}Proceed with cleaning?"):

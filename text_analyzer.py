@@ -7,7 +7,7 @@ Helps understand the structure and content of texts like Nur al-Idah.
 import re
 import argparse
 from pathlib import Path
-from typing import Dict, List, Tuple, Counter
+from typing import Dict, List, Tuple, Counter, Optional
 from collections import Counter, defaultdict
 import click
 from colorama import init, Fore, Style
@@ -160,7 +160,7 @@ class TextAnalyzer:
         # Check for common quality issues
         multiple_spaces = len(re.findall(r'\s{2,}', text))
         multiple_punctuation = len(re.findall(r'[.]{2,}|[!]{2,}|[?]{2,}', text))
-        mixed_quotes = len(re.findall(r'[""''„"‚']', text))
+        mixed_quotes = len(re.findall(r'[""''„"‚\']', text))
         tabs = text.count('\t')
         bom = text.count('\ufeff')
         
@@ -216,7 +216,7 @@ class TextAnalyzer:
             })
         
         # Check for mixed quotes
-        mixed_quotes = len(re.findall(r'[""''„"‚']', text))
+        mixed_quotes = len(re.findall(r'[""''„"‚\']', text))
         if mixed_quotes > 0:
             issues.append({
                 'type': 'mixed_quotes',
